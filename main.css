@@ -1,0 +1,29 @@
+#app {
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  background-color: lightpink;
+}
+
+h1, p {
+  text-align: center;
+  width: 100%;
+}
+
+.task-list {
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.task {
+  padding-left: 40px;
+  width: 150px;
+  font-size: large;
+}
+
+.deleteButton {
+  text-align: center;
+  width: 100px;
+}
+
